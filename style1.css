@@ -107,7 +107,7 @@ button {
 .sidebarCorto {
     background-color: rgb(29, 73, 1);
     width: 25%; 
-    height: 1600px;
+    height: 2080px; 
     display: flex;
     align-items: top;
     justify-content: flex-start;
@@ -117,7 +117,7 @@ button {
 .sidebarLungo {
     background-color: rgb(29, 73, 1);
     width: 25%; 
-    height: 2100px;
+    height: 2600px;
     display: flex;
     align-items: top;
     justify-content: flex-start;
@@ -221,11 +221,11 @@ button {
 }
 
 .pillola.blu {
-  top: 548px;
-  left: 210px;
+  top: 435px;
+  left: 165px;
 }
 
 .pillola.rossa {
-  top: 539px;
-  left: -320px;
+  top: 432 px;
+  left: -270px;
 }
