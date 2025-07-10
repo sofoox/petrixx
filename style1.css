@@ -99,9 +99,11 @@ button {
 }
 
 .presentazione {
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px;
+  width: 2500x;         
+  height: 800px;
+  object-fit: cover;
+  border-radius: 5px;
+  display: block;
 }
 
 .video {
@@ -232,6 +234,6 @@ button {
 }
 
 .pillola.rossa {
-  top: 432 px;
+  top: 433px;
   left: -270px;
 }
