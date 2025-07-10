@@ -98,6 +98,12 @@ button {
   border-radius: 10px;
 }
 
+.presentazione {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
 .video {
   max-width: 80%;
   height: auto;
