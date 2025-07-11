@@ -99,11 +99,13 @@ button {
 }
 
 .presentazione {
-  width: 2500x;         
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;            
   height: 800px;
   object-fit: cover;
   border-radius: 5px;
-  display: block;
 }
 
 .video {
